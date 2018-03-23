@@ -41,8 +41,13 @@ Fragments, Services og Broadcast Receivers
 
 Ex: The Pet shop i Android (bruger mandagens RESTful)
 
-### Coroutines:
+### Coroutines: (koe)
+* Baggrund (Simula og implementation)
+* yield og buildsequence
+* async eksempel - gerne i en webserver
+* flytte frem og tilbage mellem tråde
+* CSP og Actor modeller
 
-TBD
-
-### Native Kotlin and Kotlin JS
+### Afslutning: (koe)
+* Kotlin JS
+* Native
